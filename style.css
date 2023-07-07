@@ -12,6 +12,10 @@ body {
     color: #FD6E0A;
 }
 
+#header {
+    background-color: #FFF8F3;
+}
+
 .nav-title {
     color: #181818;
     font-family: Open Sans;
@@ -26,7 +30,6 @@ body {
     align-items: center;
     justify-content: space-around;
     padding: 20px;
-    list-style: none;
 }
 
 .menu {
@@ -48,9 +51,42 @@ li a {
     border-radius: 5px;
     background: #FD6E0A;
     border: 0;
-    color:  white;
+    color: white;
     font-family: Open Sans;
     font-size: 20px;
     font-weight: 700;
     padding: 15px 25px;
+}
+
+.banner {
+    padding: 30px 30px 0 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.banner-content {
+    max-width: 500px;
+}
+
+.profile-pic {
+    max-width: 500px;
+}
+
+.banner-greeting {
+    color: #474747;
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.banner-title {
+    color: #181818;
+    font-size: 85px;
+    font-weight: 700;
+}
+
+.banner-description {
+    color: #757575;
+    font-family: Open Sans;
+    line-height: 30px;
 }
