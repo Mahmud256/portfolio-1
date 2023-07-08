@@ -172,6 +172,17 @@ li a {
     margin: 130px 0;
 }
 
-.resume-title {
+.resume-summary {
     text-align: center;
+}
+
+.edex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.box2{
+    color: #0a0a0a;
+    padding: 15px;
 }
