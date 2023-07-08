@@ -225,3 +225,15 @@ li a {
 .resume {
     margin: 130px 0;
 }
+
+#footer{
+    background-color: #FFF8F3;;
+}
+
+.footer-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px 0;
+    margin: 0 126px;
+}
