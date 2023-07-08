@@ -118,7 +118,7 @@ li a {
     text-align: center;
 }
 
-.main-container {
+.main-about {
     padding: 127px;
     border-radius: 10px;
     background: #FFF8F3;
@@ -137,5 +137,41 @@ li a {
 }
 
 .main-info {
+    text-align: center;
+}
+
+.main-what {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.box-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.box {
+    width: 200px;
+    /* height: 280px; */
+    color: #0a0a0a;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);;
+    padding: 15px;
+}
+
+.box-title {
+    color: #181818;
+    padding: 10px 0;
+    font-size: 20px;
+}
+
+.box-description {
+    padding-bottom: 10px;
+}
+
+.resume-container {
+    margin: 130px 0;
+}
+
+.resume-title {
     text-align: center;
 }
