@@ -169,7 +169,7 @@ li a {
 }
 
 .resume-container {
-    margin: 130px 0;
+    margin-bottom: 30px;
 }
 
 .resume-summary {
@@ -184,5 +184,44 @@ li a {
 
 .box2{
     color: #0a0a0a;
-    padding: 15px;
+    padding: 20px 0;
+    margin: 26px;
+}
+
+.resume-title {
+    color: #474747;
+    font-size: 30px;
+}
+
+.degree {
+    color: #474747;
+    font-size: 25px;
+}
+
+.academy {
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.education-description {
+    color: #757575;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.box4 {
+    border-bottom: 1px solid;
+}
+
+.box3 {
+    border-bottom: 1px solid;
+}
+
+.cvtn {
+    text-align: center;
+}
+
+.resume {
+    margin: 130px 0;
 }
